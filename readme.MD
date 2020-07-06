@@ -12,7 +12,7 @@ So, I decide to create a repo to record the papers I have studied.
 ## Image Matting
 
 | Paper Name | Paper link | 20% | 40% | 60% | 80% | 100% |
-| ---------- | --- | --- | --- | --- | --- | --- |
+| Boosting Semantic Human Matting with Coarse Annotations | https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Boosting_Semantic_Human_Matting_With_Coarse_Annotations_CVPR_2020_paper.pdf | --- | --- | --- | --- | --- |
 
 
 ## Instance Segmentation

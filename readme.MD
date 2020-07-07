@@ -18,6 +18,7 @@ So, I decide to create a repo to record the papers I have studied.
 | Boosting Semantic Human Matting with Coarse Annotations | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Boosting_Semantic_Human_Matting_With_Coarse_Annotations_CVPR_2020_paper.pdf) | Done |  |  |  |  |
 | Attention-Guided Hierarchical Structure Aggregation for Image Matting | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf) |  |  |  |  |  |
 | A Closed Form Solution to Natural Image Matting | [link](https://people.csail.mit.edu/alevin/papers/Matting-Levin-Lischinski-Weiss-CVPR06.pdf) |  |  |  |  |  |
+| KNN Matting | [link](https://www.cqf.io/papers/KNN_Matting_TPAMI2013.pdf) |  |  |  |  |  |
 
 ## Instance Segmentation
 | Paper Name | Paper link | 20% | 40% | 60% | 80% | 100% |

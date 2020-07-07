@@ -6,17 +6,19 @@ So, I decide to create a repo to record the papers I have studied.
 
 | Paper Name | Paper link | 20% | 40% | 60% | 80% | 100% |
 | ---------- | --- | --- | --- | --- | --- | --- |
-
-
-
+| Unsupervised Intra-domain Adaptation for Semantic Segmentationthrough Self-Supervision | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Unsupervised_Intra-Domain_Adaptation_for_Semantic_Segmentation_Through_Self-Supervision_CVPR_2020_paper.pdf) |  |  |  |  |  |
+| FDA: Fourier Domain Adaptation for Semantic Segmentation | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf) |  |  |  |  |  |
+| Single-Stage Semantic Segmentation from Image Labels | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Araslanov_Single-Stage_Semantic_Segmentation_From_Image_Labels_CVPR_2020_paper.pdf) |  |  |  |  |  |
+| Dynamic Face Video Segmentation via Reinforcement Learning | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dynamic_Face_Video_Segmentation_via_Reinforcement_Learning_CVPR_2020_paper.pdf) |  |  |  |  |  |
 
 ## Image Matting
 
 | Paper Name | Paper link | 20% | 40% | 60% | 80% | 100% |
 | --- | --- | --- | --- | --- | --- | --- |
 | Boosting Semantic Human Matting with Coarse Annotations | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Boosting_Semantic_Human_Matting_With_Coarse_Annotations_CVPR_2020_paper.pdf) |  |  |  |  |  |
-
+| Attention-Guided Hierarchical Structure Aggregation for Image Matting | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf) |  |  |  |  |  |
 
 ## Instance Segmentation
 | Paper Name | Paper link | 20% | 40% | 60% | 80% | 100% |
 | ---------- | --- | --- | --- | --- | --- | --- |
+| Deep Snake for Real-Time Instance Segmentation | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_Deep_Snake_for_Real-Time_Instance_Segmentation_CVPR_2020_paper.pdf) |  |  |  |  |  |

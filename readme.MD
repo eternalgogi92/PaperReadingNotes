@@ -15,7 +15,7 @@ So, I decide to create a repo to record the papers I have studied.
 
 | Paper Name | Paper link | 20% | 40% | 60% | 80% | 100% |
 | --- | --- | --- | --- | --- | --- | --- |
-| Boosting Semantic Human Matting with Coarse Annotations | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Boosting_Semantic_Human_Matting_With_Coarse_Annotations_CVPR_2020_paper.pdf) |  |  |  |  |  |
+| Boosting Semantic Human Matting with Coarse Annotations | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Boosting_Semantic_Human_Matting_With_Coarse_Annotations_CVPR_2020_paper.pdf) | Done |  |  |  |  |
 | Attention-Guided Hierarchical Structure Aggregation for Image Matting | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qiao_Attention-Guided_Hierarchical_Structure_Aggregation_for_Image_Matting_CVPR_2020_paper.pdf) |  |  |  |  |  |
 
 ## Instance Segmentation

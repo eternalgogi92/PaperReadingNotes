@@ -10,7 +10,7 @@ So, I decide to create a repo to record the papers I have studied.
 | FDA: Fourier Domain Adaptation for Semantic Segmentation | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_FDA_Fourier_Domain_Adaptation_for_Semantic_Segmentation_CVPR_2020_paper.pdf) |  |  |  |  |  |
 | Single-Stage Semantic Segmentation from Image Labels | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Araslanov_Single-Stage_Semantic_Segmentation_From_Image_Labels_CVPR_2020_paper.pdf) |  |  |  |  |  |
 | Dynamic Face Video Segmentation via Reinforcement Learning | [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dynamic_Face_Video_Segmentation_via_Reinforcement_Learning_CVPR_2020_paper.pdf) |  |  |  |  |  |
-| Structured Knowledge Distillation for Semantic Segmentation | [link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Structured_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2019_paper.pdf) |  |  |  |  |  |
+| Structured Knowledge Distillation for Semantic Segmentation | [link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Structured_Knowledge_Distillation_for_Semantic_Segmentation_CVPR_2019_paper.pdf) | Done | Done |  |  |  |
 
 ## Image Matting
 
